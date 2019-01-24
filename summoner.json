@@ -1,0 +1,1 @@
+{"content": {"icon": {"type": "img", "name": "Profile icon"}, "summonerLevel": {"type": "numeric", "name": "Level"}, "name": {"type": "string", "name": "Summoner name"}}, "type": "block", "name": "Summoner"}
