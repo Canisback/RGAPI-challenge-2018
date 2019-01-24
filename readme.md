@@ -17,12 +17,15 @@ The data is generated following the schema from the data from the RG API, and th
 
 
 A demo can be seen here : 
+
 http://canisback.com:4200/summoner/euw1/ODS%20Saig
 
 You can begin to create your template by clicking on the "New block" button and selecting a category of data to begin with. You can move and resize the block, pick specific data and configure options in the template viewer on the right.
 
-It is also possible the use a premade template : 
+It is also possible the use a premade template, click on the "lock" button top left to see the result : 
+
 http://canisback.com:4200/summoner/euw1/ODS%20Saig/default
+
 Well... it's more the begining of a premade template, but still.
 
 Due to a lack of time, the result is not very good looking, suffers from critical bugs and is not really user friendly, but this is a project we will contiue to work on. The concept of letting the user choose the data he wants the way he wants is something that is missing a lot in today stats websites. No static template, even carefully designed, can't please every player as their needs are really different from a player to another.
