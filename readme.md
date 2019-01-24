@@ -1,4 +1,4 @@
-#Riot Games API Challenge 2018 Submission - custom.lol
+# Riot Games API Challenge 2018 Submission - custom.lol
 
 This is the back end of the project.
 It relies on the Python libraries [Pantheon](https://github.com/Canisback/pantheon) and [Static-data](https://github.com/Canisback/static-data). You will need to install them to make this project work.
