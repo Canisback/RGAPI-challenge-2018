@@ -1,5 +1,12 @@
 # Riot Games API Challenge 2018 Submission - custom.lol
 
+By Canisback and Saig
+
+There are plenty of website about data on LoL. They all present the data in different shapes, but no one can truly please every needs of every summoner. Given this assessment, one idea emerged : if we can't find a template that pleases every user, why not let every user create their own specific template?
+
+
+About this repo : 
+
 This is the back end of the project.
 It relies on the Python libraries [Pantheon](https://github.com/Canisback/pantheon) and [Static-data](https://github.com/Canisback/static-data). You will need to install them to make this project work.
 
